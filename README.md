@@ -8,9 +8,10 @@ CodeBook.md : the referencebook forTidy_Data.txt                  *
                                                                   *
 README.md : comments and discription of the script run_analysis.R *
 ******************************************************************
-<p><h1>First steps:<h1></p>
+<h1> First steps: </h1>
 
 <p> We download the zip file and unzip it and then load the necessary libraries </p>
+
 ```{r eval=FALSE}
 f<-"~/Data_science/Getting_and_Cleaning_Data/Activity_Recognition/"
 setwd(f)
