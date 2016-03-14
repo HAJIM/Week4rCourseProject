@@ -8,7 +8,7 @@ CodeBook.md : the referencebook forTidy_Data.txt                  *
                                                                   *
 README.md : comments and discription of the script run_analysis.R *
 ******************************************************************
-<h1>First steps:<h1>
+<p><h1>First steps:<h1></p>
 
 <p> We download the zip file and unzip it and then load the necessary libraries </p>
 ```{r eval=FALSE}
